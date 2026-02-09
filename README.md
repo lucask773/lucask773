@@ -1,20 +1,25 @@
-<h1 align="center">Olá, Eu sou o Kevin</h1>
-<h3 align="center">Paixão por tecnologia, focado na área de dados!</h3>
+<h1 align="center">Olá, eu sou o Kevin 👋</h1>
+<h3 align="center">Entusiasta de tecnologia com foco em Análise de Dados</h3>
 
-- 🌱 Atualmente estou estudando **Python, MySQL, Power BI**
+- 📊 Estudante e praticante da área de **Dados**, com foco em transformar informações em insights para tomada de decisão  
+- 🌱 Atualmente estudando **Python, SQL (MySQL) e Power BI**  
+- 📈 Desenvolvendo projetos práticos com dashboards, banco de dados e automação de análises  
+- 👯 Compartilho meus projetos e aprendizados no LinkedIn:  
+  👉 <a href="https://www.linkedin.com/in/kevin-lucas-5414ab230/" target="_blank">Perfil LinkedIn</a>  
+- 💬 Me pergunte sobre **SQL, Excel, Python e Power BI**  
+- 📫 Contato: **lucask773@gmail.com**
 
-- 👯 Tambem estou compartilhando no linkedin [Perfil Linkedin](https://www.linkedin.com/in/kevin-lucas-5414ab230/)
-
-- 💬 Me pergunte sobre **SQL, Excel, Python**
-
-- 📫 Como entrar em contato comigo? **lucask773@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kevin lucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin lucas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kevin-lucas-5414ab230/" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Kevin Lucas" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevin&show_icons=true&locale=en&layout=compact" alt="kevin" /></p>
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+</p>
