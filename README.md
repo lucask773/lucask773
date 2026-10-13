@@ -5,7 +5,7 @@
 - 🌱 Atualmente estudando **Python, SQL (MySQL) e Power BI**  
 - 📈 Desenvolvendo projetos práticos com dashboards, banco de dados e automação de análises  
 - 👯 Compartilho meus projetos e aprendizados no LinkedIn:  
-  👉 <a href="https://www.linkedin.com/in/kevin-lucas-silva-do-nasciment/" target="_blank">Perfil LinkedIn</a>  
+  👉 <a href="www.linkedin.com/in/kevin-lucas-silva-do-nasciment" target="_blank">Perfil LinkedIn</a>  
 - 💬 Me pergunte sobre **SQL, Excel, Python e Power BI**  
 - 📫 Contato: **lucask773@gmail.com**
 
